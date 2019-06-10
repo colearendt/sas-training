@@ -23,5 +23,5 @@ those lessons.
 - The CRON magic
 - Graphics, Viz, and Plotting
 - SESUG papers and community
-- Benefits / detractions of coorporate accountability
+- Benefits / detractions of corporate accountability
   - [writing a regex to parse JSON data (in 2015)](http://support.sas.com/resources/papers/proceedings13/342-2013.pdf)
