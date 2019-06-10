@@ -11,7 +11,10 @@ those lessons.
 - Functions: GOOD
 - Absolute system paths: BAD
 - Window Functions (first. and last.): AMAZING
+  - Common Table Expressions
+  - Custom aggregators & Stored Procedures in PostgreSQL
 - Pull everything to the SAS server: BAD
+  - Off-load work to PostgreSQL, etc.
 - Dependency Management
 - Macros vs. Packages
   - The epic folder of macros
