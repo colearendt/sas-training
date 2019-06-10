@@ -21,7 +21,7 @@ those lessons.
 - Unit tests!
 - Custom "RunAs" user account
 - The CRON magic
-- Dev in Prod :shades:
+- Dev in Prod :sunglasses:
 - Graphics, Viz, and Plotting
 - SESUG papers and community
 - Benefits / detractions of corporate accountability
