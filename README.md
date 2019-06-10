@@ -6,7 +6,7 @@ those lessons.
 
 # Topics
 
-- Global Variables: BAD
+- [Global Variables: BAD](./articles/global-variables.md)
 - No return output: BAD
 - Functions: GOOD
 - Absolute system paths: BAD
@@ -27,3 +27,4 @@ those lessons.
 - SESUG papers and community
 - Benefits / detractions of corporate accountability
   - [writing a regex to parse JSON data (in 2015)](http://support.sas.com/resources/papers/proceedings13/342-2013.pdf)
+- Logging
