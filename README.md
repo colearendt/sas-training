@@ -23,6 +23,7 @@ those lessons.
 - The CRON magic
 - Dev in Prod :sunglasses:
 - Graphics, Viz, and Plotting
+  - PDFs
 - SESUG papers and community
 - Benefits / detractions of corporate accountability
   - [writing a regex to parse JSON data (in 2015)](http://support.sas.com/resources/papers/proceedings13/342-2013.pdf)
